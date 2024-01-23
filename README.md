@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aderssa Dhia</h1>
 <h3 align="center">A passionate Data Scientist from From Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhia172&label=Profile%20views&color=0e75b6&style=flat" alt="dhia172" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhia124&label=Profile%20views&color=0e75b6&style=flat" alt="Dhia124" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhia172" alt="dhia172" /></a> </p>
 
